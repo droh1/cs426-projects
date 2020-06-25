@@ -1,4 +1,4 @@
-# cs426 Princples of Computer Security Spring 2019
+# cmsc426 Princples of Computer Security Spring 2019
 
 These are my class projects from the Principles of Computer Security class at UMBC.
 
